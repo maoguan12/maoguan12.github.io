@@ -1,13 +1,5 @@
 
 [
-{"bid":"com.mica.shfk",
- "auditState":1,
- "url":"http://m.01yuelao.com/",
- "version":"1.0.1",
- "isPortrait":0,
- "needTabBar":1
- },
-
 {"bid":"com.rxsc.xs",
  "auditState":0,
  "url":"https://h5.game-props.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100001549&game_version=3.16.3&initial=",
@@ -15,5 +7,4 @@
  "isPortrait":0,
  "needTabBar":1
  }
-
 ]
