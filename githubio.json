@@ -1,7 +1,7 @@
 
 [
 {"bid":"com.rxsc.xs",
- "auditState":0,
+ "auditState":1,
  "url":"https://new.pay.nikugame.com/game/wstl/v3?mode=login",
  "version":"1.0.1",
  "isPortrait":0,
